@@ -1,0 +1,1 @@
+This program will run a script in your terminal upon typing generate 
